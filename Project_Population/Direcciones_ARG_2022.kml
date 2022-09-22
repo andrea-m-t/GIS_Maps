@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Direcciones_Nuevas" id="Direcciones_Nuevas">
+	<SimpleField name="address" type="string"></SimpleField>
+</Schema>
+<Folder><name>Direcciones_Nuevas</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Direcciones_Nuevas">
+		<SimpleData name="address">160, Elías Bedoya, Rafael Castillo, Partido de La Matanza, Buenos Aires, 1755, Argentina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.6259031428571,-34.6911412653061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Direcciones_Nuevas">
+		<SimpleData name="address">Rivadavia 6500, Avenida Rivadavia, Flores, Buenos Aires, Comuna 7, Autonomous City of Buenos Aires, C1406GLI, Argentina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.4583508,-34.6274204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Direcciones_Nuevas">
+		<SimpleData name="address">Farmacity, Avenida Carabobo, Flores, Buenos Aires, Comuna 7, Autonomous City of Buenos Aires, C1406GLU, Argentina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.4564837391458,-34.6267646819599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Direcciones_Nuevas">
+		<SimpleData name="address">1893, Coronel Ramón Lorenzo Falcón, Flores, Buenos Aires, Comuna 7, Autonomous City of Buenos Aires, C1406GRL, Argentina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.4558370046643,-34.6279937530734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Direcciones_Nuevas">
+		<SimpleData name="address">Café Martínez, 43, Avenida Carabobo, Flores, Buenos Aires, Comuna 7, Autonomous City of Buenos Aires, 1406, Argentina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.456578054591,-34.6274093130231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Direcciones_Nuevas">
+		<SimpleData name="address">Disco, Camacuá, Flores, Buenos Aires, Comuna 7, Autonomous City of Buenos Aires, C1406GLV, Argentina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.4587530842459,-34.6282978503331</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
